@@ -4,7 +4,8 @@ I am a very stupid developer, specifically a developer who make software for App
 Swift,
 SwiftUI,
 CloudKit (iCloud),
-SwiftData
+SwiftData,
+TypeScript (a lil' bit),
 ## My Apps
 ### QR-Creator
 iOS, watchOS
